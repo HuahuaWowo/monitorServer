@@ -1,0 +1,11 @@
+.icon {
+  width: 2rem;
+  text-align: center;
+  transform: translate(25%, -10%);
+  width: 2rem;
+  font-size: 0.7rem;
+  color: #726a6a;
+}
+.icon div {
+  font-size: 0.2rem;
+}
